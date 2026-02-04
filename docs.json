@@ -29,7 +29,9 @@
         "groups": [
           {
             "group": "WP Ledgery",
-            "pages": []
+            "pages": [
+              "setup"
+            ]
           },
           {
             "group": "Getting started",
